@@ -1,2 +1,2 @@
 # hyperisland
-My codes for school project - Hyper Island Data Analyst '23
+Hyper Island Data Analyst '23 - Module 4: Data Analysis - Project Code
